@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UK-Kurdistan Parcel Agents</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>UK-Kurdistan Parcel Agents</h1>
+            <p class="subtitle">Parcel services between UK and Kurdistan</p>
+        </header>
+        
+        <div class="search-container">
+            <input type="text" id="search" placeholder="Search by city, agent name, or postcode...">
+        </div>
+        
+        <div class="tabs">
+            <button class="tab-btn active" data-filter="all">All Agents</button>
+            <button class="tab-btn" data-filter="two-way">Two-Way Service</button>
+            <button class="tab-btn" data-filter="one-way">UK to Kurdistan Only</button>
+            <button class="tab-btn" data-filter="london">London Area</button>
+            <button class="tab-btn" data-filter="major">Major Cities</button>
+        </div>
+        
+        <div class="agents-grid" id="agents-container">
+            <!-- Agent cards will be inserted here by JavaScript -->
+        </div>
+    </div>
+
+    <div class="toast" id="toast">Copied to clipboard!</div>
+
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
