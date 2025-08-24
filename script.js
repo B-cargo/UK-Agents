@@ -616,19 +616,7 @@ document.addEventListener('DOMContentLoaded', function() {
             serviceType: "two-way",
             services: ["UK to Kurdistan", "Kurdistan to UK"]
         },
-          {
-            city: "Bradford",
-            name: "TRANSIT GO EXPRESS LTD",
-            address: "18A LUMB LANE, BRADFORD, BD8 7QP",
-            contact: "+44 7727 010908",
-            contactName: "Ismail Hama",
-            whatsapp: "+447727010908",
-            postcode: "BD8 7QP",
-            category: "two-way",
-            serviceType: "two-way",
-            services: ["UK to Kurdistan", "Kurdistan to UK"]
-        },
-
+         
         // One-way service agents (UK to Kurdistan only)
         {
             city: "Gravesend",
