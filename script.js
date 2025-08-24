@@ -6,9 +6,9 @@ document.addEventListener('DOMContentLoaded', function() {
             city: "Croydon",
             name: "Vandon Removals",
             address: "UNIT 4 WEST, 2 MONTAGUE ROAD, CROYDON, CR0 3SS",
-            contact: "+44 7899 728989",
+            contact: "+44 7747 672680",
             contactName: "",
-            whatsapp: "+447899728989",
+            whatsapp: "+447747672680",
             postcode: "CR0 3SS",
             category: "london",
             serviceType: "two-way",
@@ -616,6 +616,18 @@ document.addEventListener('DOMContentLoaded', function() {
             serviceType: "two-way",
             services: ["UK to Kurdistan", "Kurdistan to UK"]
         },
+          {
+            city: "Bradford",
+            name: "TRANSIT GO EXPRESS LTD",
+            address: "18A LUMB LANE, BRADFORD, BD8 7QP",
+            contact: "+44 7727 010908",
+            contactName: "Ismail Hama",
+            whatsapp: "+447727010908",
+            postcode: "BD8 7QP",
+            category: "two-way",
+            serviceType: "two-way",
+            services: ["UK to Kurdistan", "Kurdistan to UK"]
+        },
 
         // One-way service agents (UK to Kurdistan only)
         {
@@ -667,18 +679,6 @@ document.addEventListener('DOMContentLoaded', function() {
             services: ["UK to Kurdistan"]
         },
         {
-            city: "Worthing",
-            name: "",
-            address: "4-6 South Street, Worthing, bn14 7lh",
-            contact: "+44 7784 334611",
-            contactName: "Kak Shirwan",
-            whatsapp: "+447784334611",
-            postcode: "bn14 7lh",
-            category: "one-way",
-            serviceType: "one-way",
-            services: ["UK to Kurdistan"]
-        },
-        {
             city: "Newcastle",
             name: "In&Out Store",
             address: "3 Two Ball Lonnen, Newcastle Upon Tyne, Tyne And Wear, England, NE4 9RN",
@@ -710,18 +710,6 @@ document.addEventListener('DOMContentLoaded', function() {
             contactName: "",
             whatsapp: "+447359231202",
             postcode: "G4 0BZ",
-            category: "one-way",
-            serviceType: "one-way",
-            services: ["UK to Kurdistan"]
-        },
-        {
-            city: "Bradford",
-            name: "TRANSIT GO EXPRESS LTD",
-            address: "18A LUMB LANE, BRADFORD, BD8 7QP",
-            contact: "+44 7727 010908",
-            contactName: "Ismail Hama",
-            whatsapp: "+447727010908",
-            postcode: "BD8 7QP",
             category: "one-way",
             serviceType: "one-way",
             services: ["UK to Kurdistan"]
