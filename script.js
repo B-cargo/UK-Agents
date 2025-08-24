@@ -265,7 +265,7 @@ document.addEventListener('DOMContentLoaded', function() {
             postcode: "M14 6LD",
             category: "major",
             serviceType: "two-way",
-            services: "UK to Kurdistan, Kurdistan to UK"
+            services: ["UK to Kurdistan", "Kurdistan to UK"]
         },
         {
             city: "Middlesborough",
@@ -337,7 +337,8 @@ document.addEventListener('DOMContentLoaded', function() {
             postcode: "OX4 4AQ",
             category: "major",
             serviceType: "two-way",
-            services: ["UK to Kurdistan", "Kurdistan to UK"]
+            services: ["UK to Kurdistan", "Kurdistan to UK"
+            ]
         },
         {
             city: "Peterborough",
@@ -430,8 +431,7 @@ document.addEventListener('DOMContentLoaded', function() {
             contact: "+44 7809 669827",
             contactName: "kak Azad",
             whatsapp: "+447809669827",
-            postcode: "SN极速赛车开奖结果查询
-            SN1 1RZ",
+            postcode: "SN1 1RZ",
             category: "major",
             serviceType: "two-way",
             services: ["UK to Kurdistan", "Kurdistan to UK"]
@@ -451,8 +451,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             city: "Wigan",
             name: "Barakat Market",
-            address: "36 wigan lane, Wigan, WN极速赛车开奖结果查询
-            WN1 1XR",
+            address: "36 wigan lane, Wigan, WN1 1XR",
             contact: "+44 7821 401192",
             contactName: "Kak Redar",
             whatsapp: "+447821401192",
@@ -464,11 +463,9 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             city: "Wolverhampton",
             name: "WV6 Internet cafe",
-            address极速赛车开奖结果查询
             address: "46 newhampton road west, Wolverhampton, Wv6 0ry",
             contact: "+44 7786 424245",
             contactName: "Kak Dlshad & kak Shwan",
-            whatsapp极速赛车开奖结果查询
             whatsapp: "+447786424245",
             postcode: "WV6 0ry",
             category: "major",
@@ -492,14 +489,12 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Driver",
             address: "",
             contact: "+44 7926 606008",
-            contactName: "K极速赛车开奖结果查询
-            Kak Sarkawt",
+            contactName: "Kak Sarkawt",
             whatsapp: "+447926606008",
             postcode: "",
             category: "major",
             serviceType: "two-way",
-            services: ["UK极速赛车开奖结果查询
-            UK to Kurdistan", "Kurdistan to UK"]
+            services: ["UK to Kurdistan", "Kurdistan to UK"]
         },
         {
             city: "Leeds Warehouse",
@@ -518,7 +513,6 @@ document.addEventListener('DOMContentLoaded', function() {
             name: "Driver",
             address: "",
             contact: "+44 7749 909900",
-            contact极速赛车开奖结果查询
             contactName: "Shex Mohammed",
             whatsapp: "+447749909900",
             postcode: "",
@@ -535,7 +529,6 @@ document.addEventListener('DOMContentLoaded', function() {
             whatsapp: "+447401039899",
             postcode: "",
             category: "major",
-            serviceType极速赛车开奖结果查询
             serviceType: "two-way",
             services: ["UK to Kurdistan", "Kurdistan to UK"]
         },
@@ -577,10 +570,8 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             city: "Bradford",
-            name极速赛车开奖结果查询
             name: "TRANSIT GO EXPRESS LTD",
-            address: "18A LUMB LANE, BRAD极速赛车开奖结果查询
-            BRADFORD, BD8 7QP",
+            address: "18A LUMB LANE, BRADFORD, BD8 7QP",
             contact: "+44 7727 010908",
             contactName: "Ismail Hama",
             whatsapp: "+447727010908",
@@ -599,8 +590,7 @@ document.addEventListener('DOMContentLoaded', function() {
             postcode: "TS1 4LY",
             category: "major",
             serviceType: "two-way",
-            services: ["UK to Kurdistan", "Kurdistan极速赛车开奖结果查询
-            Kurdistan to UK"]
+            services: ["UK to Kurdistan", "Kurdistan to UK"]
         },
         {
             city: "Doncaster",
@@ -631,7 +621,6 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             city: "Gravesend",
             name: "Barber Kent 2",
-            address:极速赛车开奖结果查询
             address: "3 Darnley Rd, Gravesend, Kent, DA11 0RU",
             contact: "+44 7522 521026",
             contactName: "Mam Hozan",
@@ -660,9 +649,7 @@ document.addEventListener('DOMContentLoaded', function() {
             contact: "+44 7429 443912",
             contactName: "Rebwar Qamishi",
             whatsapp: "+447429443912",
-            postcode: "ME极速赛车开奖结果查询
-            ME15 6EU",
-            category: "极速赛车开奖结果查询
+            postcode: "ME15 6EU",
             category: "one-way",
             serviceType: "one-way",
             services: ["UK to Kurdistan"]
@@ -670,8 +657,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             city: "Manchester",
             name: "COLOURS TRAVEL CENTRE",
-            address: "163A DICKENSON ROAD, LONGSIGHT, MANCHESTER, M13 极速赛车开奖结果查询
-            M13 0YN",
+            address: "163A DICKENSON ROAD, LONGSIGHT, MANCHESTER, M13 0YN",
             contact: "+44 7731 514129, +44 161 2244033",
             contactName: "Mr. Sabah",
             whatsapp: "+447731514129",
@@ -683,7 +669,6 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             city: "Worthing",
             name: "",
-            address: "4-极速赛车开奖结果查询
             address: "4-6 South Street, Worthing, bn14 7lh",
             contact: "+44 7784 334611",
             contactName: "Kak Shirwan",
@@ -720,10 +705,8 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             city: "Glasgow",
             name: "ZAD FOOD",
-            address: "73 Lister street, Glasgow, G4 0极速赛车开奖结果查询
-            G4 0BZ",
-            contact: "+44 141 588 5106, +44 7359 231极速赛车开奖结果查询
-            +44 7359 231202, +44 7505 809161",
+            address: "73 Lister street, Glasgow, G4 0BZ",
+            contact: "+44 141 588 5106, +44 7359 231202, +44 7505 809161",
             contactName: "",
             whatsapp: "+447359231202",
             postcode: "G4 0BZ",
@@ -737,10 +720,8 @@ document.addEventListener('DOMContentLoaded', function() {
             address: "18A LUMB LANE, BRADFORD, BD8 7QP",
             contact: "+44 7727 010908",
             contactName: "Ismail Hama",
-            whatsapp极速赛车开奖结果查询
             whatsapp: "+447727010908",
-            postcode: "BD8 极速赛车开奖结果查询
-            BD8 7QP",
+            postcode: "BD8 7QP",
             category: "one-way",
             serviceType: "one-way",
             services: ["UK to Kurdistan"]
@@ -773,7 +754,6 @@ document.addEventListener('DOMContentLoaded', function() {
             city: "Hull",
             name: "Adam food store",
             address: "178 spring bank, Hull, HU3 1PG",
-            contact: "+极速赛车开奖结果查询
             contact: "+44 7456 090062",
             contactName: "",
             whatsapp: "+447456090062",
@@ -856,7 +836,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     function showToast(message) {
-        toast.text极速赛车开奖结果查询
         toast.textContent = message;
         toast.classList.add('show');
         setTimeout(() => {
@@ -880,13 +859,11 @@ document.addEventListener('DOMContentLoaded', function() {
             } catch (err) {
                 showToast('Failed to copy');
             }
-            document.body.remove极速赛车开奖结果查询
             document.body.removeChild(textarea);
         });
     }
     
     function downloadCardAsImage(card) {
-        html2canvas(card).极速赛车开奖结果查询
         html2canvas(card).then(canvas => {
             const link = document.createElement('a');
             link.download = `${card.querySelector('h3').textContent}-agent.jpg`;
@@ -900,7 +877,6 @@ document.addEventListener('DOMContentLoaded', function() {
         if (agent.name) text += ` - ${agent.name}`;
         text += `\n\n`;
         
-        if (agent.contactName) text += `Contact: ${极速赛车开奖结果查询
         if (agent.contactName) text += `Contact: ${agent.contactName}\n`;
         if (agent.address) text += `Address: ${agent.address}`;
         if (agent.postcode) text += `, ${agent.postcode}`;
@@ -944,7 +920,6 @@ document.addEventListener('DOMContentLoaded', function() {
                                     ${agent.address}
                                 </a>
                             </p>
-                            ${mapLink ? `<a href="${mapLink}" target="_blank" class极速赛车开奖结果查询
                             ${mapLink ? `<a href="${mapLink}" target="_blank" class="map-link"><i class="fas fa-map-marker-alt"></i> View on Map</a>` : ''}
                         ` : ''}
                         ${agent.postcode ? `<p><strong>Postcode:</strong> ${agent.postcode}</p>` : ''}
@@ -956,9 +931,6 @@ document.addEventListener('DOMContentLoaded', function() {
                                 <a href="tel:${formatPhoneNumber(agent.contact)}" class="contact-link">
                                     ${agent.contact}
                                 </a>
-                                ${whatsappLink ? `<a href="${whatsapp极速赛车开奖结果查询
-                                ${whatsappLink ? `<a href="${whatsappLink}" target="_blank" class="whatsapp-link"><i class="fab极速赛车开奖结果查询
-                                ${whatsapp极速赛车开奖结果查询
                                 ${whatsappLink ? `<a href="${whatsappLink}" target="_blank" class="whatsapp-link"><i class="fab fa-whatsapp"></i></a>` : ''}
                             </p>
                         ` : ''}
