@@ -63,14 +63,14 @@ document.addEventListener('DOMContentLoaded', function() {
             serviceType: "two-way",
             services: ["UK to Kurdistan", "Kurdistan to UK"]
         },
-        {
+          {
             city: "Bolton",
-            name: "",
-            address: "141 MAYOR STREET, BOLTON, BL1 4SJ",
-            contact: "+44 7428 814014",
-            contactName: "Kak Renas",
-            whatsapp: "+447428814014",
-            postcode: "BL1 4SJ",
+            name: "Mobile store Bolton LTD",
+            address: "369 Derby Street",
+            contact: "+44 7830 772929",
+            contactName: "Kak Mhamad",
+            whatsapp: "+447830772929",
+            postcode: "BL3 6LS",
             category: "major",
             serviceType: "two-way",
             services: ["UK to Kurdistan", "Kurdistan to UK"]
